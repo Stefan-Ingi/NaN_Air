@@ -1,0 +1,12 @@
+--sep--
+--gra--
+--sep--
+--cen--Select the relevant field to add information.
+--sep--
+--bre--
+--emp--
+--cre--
+--emp--
+--spa--
+--rju----ind--X - Start new Airplane    B - Back to Airplanes    R - Refresh Screen   Q - Exit
+--sep--

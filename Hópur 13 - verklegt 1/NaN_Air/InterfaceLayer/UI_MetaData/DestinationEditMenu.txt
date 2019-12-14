@@ -1,0 +1,12 @@
+--sep--
+--gra--
+--sep--
+--cen--Select the relevant field to edit information. Your changes are saved when you hit enter.
+--sep--
+--bre--
+--emp--
+--cre--
+--emp--
+--spa-- 
+--rju----ind--B - Back to Destinations    R - Refresh Screen   Q - Exit
+--sep--

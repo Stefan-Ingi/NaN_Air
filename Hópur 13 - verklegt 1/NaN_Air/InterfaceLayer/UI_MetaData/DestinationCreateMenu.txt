@@ -1,0 +1,12 @@
+--sep--
+--gra--
+--sep--
+--cen--Select the relevant field to add information.
+--sep--
+--bre--
+--emp--
+--cre--
+--emp--
+--spa--
+--rju----ind--X - Start new Destination    B - Back to Destinations    R - Refresh Screen   Q - Exit
+--sep--
